@@ -4,13 +4,16 @@ Autor: Dominik Haładus
 Cel projektu: Stworzenie prostego systemu w języku Java do zarządzania studentami z 
 zintegrowaną bazą danych SQLite oraz GUI opartym na Swing.
 Instrukcje dotyczące kompilacji i uruchamiania aplikacji.
+
 W przypadku braku zainstalowanej Javy na Twoim urządzeniu nie będziesz w stanie 
 skompilować programu.
+
 Jeżeli chcesz prawidłowo korzystać z aplikacji zainstaluj Java Compiler z wersją co 
 najmniej 20.0.1+9-29 oraz skonfiguruj Sqlite do poprawnego otwarcia bazy danych.
 1. Pobierz i wypakuj plik .RAR z projektem. W katalogu znajdująsię pojedyczne pliki z 
 wszystkimi klasami oraz plik z bazą danych. Żeby poprawnie uruchomić program skompliuj 
 go przez pobrany Java Compiler np. IntelliJ. Po kompilacji aplikacja zostanie uruchomiona.
+
 Funkcjonalności oferowana przez system zarządzania studentami:
 • Dodawanie studenta do bazy w oparciu o ID, imię, wiek oraz ocenę za pomocą
 przycisku Add Student
@@ -20,6 +23,7 @@ przycisku Add Student
 • Obliczanie średniej ocen studentów za pomocą Calculate Average
 Aplikacja obsługuje wyjątki oraz powiadamia użytkownika o błędach przy wpisywania 
 danych.
+
 Technologie użyte przy tworzeniu aplikacji
 • Język Programowania:
 • Java – Język użyty do stworzenia aplikacji, oparty na paradygmacie obiektowym, 
