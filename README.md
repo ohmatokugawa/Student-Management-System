@@ -1,6 +1,6 @@
 Nazwa projektu: Student Management System
 Autor: Dominik Haładus
-Numer indeksu: 50014
+
 Cel projektu: Stworzenie prostego systemu w języku Java do zarządzania studentami z 
 zintegrowaną bazą danych SQLite oraz GUI opartym na Swing.
 Instrukcje dotyczące kompilacji i uruchamiania aplikacji.
